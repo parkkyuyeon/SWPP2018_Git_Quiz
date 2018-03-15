@@ -28,9 +28,11 @@ int add(int a, int b) {
 }
 
 int sub(int a, int b) {
-  return 0; // TODO : FIX IT
+  int x=a-b;
+  return x;
 }
 
 int mul(int a, int b) {
-  return 0; // TODO : FIX IT
+  int x=a*b;
+  return x;
 }
